@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554416430 source:c:\users\aldana\desktop\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554416411 source:c:\users\aldana\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554416928 c:\users\aldana\desktop\tp1\funciones.h
+
