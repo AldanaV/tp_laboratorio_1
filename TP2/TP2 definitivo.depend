@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1557541216 source:c:\users\aldana\desktop\tp2 definitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1557541216 c:\users\aldana\desktop\tp2 definitivo\arrayemployees.h
+
+1557541232 source:c:\users\aldana\desktop\tp2 definitivo\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
